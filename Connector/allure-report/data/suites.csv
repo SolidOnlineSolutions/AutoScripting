@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","20187","Accessinfo Creation","chromium","Sat Sep 28 14:11:03 IST 2024","passed","Sat Sep 28 14:11:23 IST 2024","","ImportExport.spec.js","",""
+"","1","Mapping Creation","chromium","Sat Sep 28 12:44:18 IST 2024","skipped","Sat Sep 28 12:44:18 IST 2024","","ImportExport.spec.js","",""
+"","0","Systemsetting Creation","chromium","Sat Sep 28 12:44:18 IST 2024","skipped","Sat Sep 28 12:44:18 IST 2024","","ImportExport.spec.js","",""
+"","21718","MFA login","setup","Sat Sep 28 14:09:42 IST 2024","passed","Sat Sep 28 14:10:04 IST 2024","","Auth.Setup.js","",""
+"","40400","System Creation","chromium","Sat Sep 28 14:10:06 IST 2024","passed","Sat Sep 28 14:10:47 IST 2024","","ImportExport.spec.js","",""

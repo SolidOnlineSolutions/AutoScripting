@@ -1,0 +1,21 @@
+[
+  {
+    SFTPAccInfo: 'SFTP',
+    SFTPdescription: 'TestAutomationSFTPAI11',
+    SFTPUrl: '10.2.0.4',
+    SFTPClientid: 'soldevteam',
+    SFTPClientsecret: '$ol@ftp@321',
+    SFTPPort: 22
+  }
+]
+[
+  {
+    SFTPAccInfo: 'SFTP',
+    SFTPdescription: 'TestAutomationSFTPAI11',
+    SFTPUrl: '10.2.0.4',
+    SFTPClientid: 'soldevteam',
+    SFTPClientsecret: '$ol@ftp@321',
+    SFTPPort: 22
+  }
+]
+Created the New Access information properly and also available in grid

@@ -1,0 +1,20 @@
+[ { SysSettingDesc: 'TestAutosystemsetting62' } ] [
+  {
+    SYSTYPE: 'FTP/SFTP',
+    SYSDESC: 'SFTPsystemAutomation1923',
+    TIMEZONE: 'Amsterdam',
+    RESPONSEFILETYPE: 'JSON',
+    RESPONSEFIELD: 'Back office code 1',
+    Statuscodeis: 200
+  }
+]
+[ { SysSettingDesc: 'TestAutosystemsetting62' } ] [
+  {
+    SYSTYPE: 'FTP/SFTP',
+    SYSDESC: 'SFTPsystemAutomation1923',
+    TIMEZONE: 'Amsterdam',
+    RESPONSEFILETYPE: 'JSON',
+    RESPONSEFIELD: 'Back office code 1',
+    Statuscodeis: 200
+  }
+]

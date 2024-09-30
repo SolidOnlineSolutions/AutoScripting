@@ -1,0 +1,24 @@
+ConnectorTest002
+ConnectorTest002
+[
+  {
+    SYSTYPE: 'FTP/SFTP',
+    SYSDESC: 'SFTPsystemAutomation1923',
+    TIMEZONE: 'Amsterdam',
+    RESPONSEFILETYPE: 'JSON',
+    RESPONSEFIELD: 'Back office code 1',
+    Statuscodeis: 200
+  }
+]
+[
+  {
+    SYSTYPE: 'FTP/SFTP',
+    SYSDESC: 'SFTPsystemAutomation1923',
+    TIMEZONE: 'Amsterdam',
+    RESPONSEFILETYPE: 'JSON',
+    RESPONSEFIELD: 'Back office code 1',
+    Statuscodeis: 200
+  }
+]
+SFTPsystemAutomation1923
+Created the New System properly and also available in grid

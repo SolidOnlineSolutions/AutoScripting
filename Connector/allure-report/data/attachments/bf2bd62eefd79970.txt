@@ -1,0 +1,17 @@
+TOTP {
+  issuer: 'Microsoft',
+  label: 'OTPAuth',
+  issuerInLabel: true,
+  secret: Secret {
+    bytes: Uint8Array(10) [
+      205, 218, 56, 222,
+      102, 127, 68, 215,
+      176, 208
+    ]
+  },
+  algorithm: 'SHA1',
+  digits: 6,
+  period: 30
+}
+661449
+Storage state saved to: .auth/user.json
